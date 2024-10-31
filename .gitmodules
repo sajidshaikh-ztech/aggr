@@ -1,0 +1,8 @@
+[submodule "A6"]
+	path = A6
+	url = https://github.com/sajidshaikh-ztech/repoA6.git
+	branch = master
+[submodule "A5"]
+	path = A5
+	url = https://github.com/sajidshaikh-ztech/repoA5.git
+	branch = master
